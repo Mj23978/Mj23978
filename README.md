@@ -35,6 +35,6 @@
 <br />
 <br />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mj23978&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=Mj's%20Github%20Stats"/>
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mj23978&hide=c++,html&langs_count=3&layout=compact">
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mj23978&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=Mj's%20Github%20Stats"/>
