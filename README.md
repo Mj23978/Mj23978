@@ -1,7 +1,5 @@
 ### Hi there 👋, Im Mj aka Fluttensor a Fullstack Web & Mobile Developer also a Data Scientist Intrested in Blockchain ✨✨
 
-<br/>
-
 <img align="right" alt="Coding Gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400"  height="280"/>
 
 - 🌱 I’m currently learning Blockchain ( Substrate Framework )
@@ -36,6 +34,6 @@
 <br />
 <br />
 
-![Mj's github stats](https://github-readme-stats.vercel.app/api?username=Mj23978&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=Mj's%20Github%20Stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mj23978&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=Mj's%20Github%20Stats"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mj23978&hide=c++,html&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mj23978&hide=c++,html&langs_count=3&layout=compact)">
