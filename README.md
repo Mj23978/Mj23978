@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✨✨ Im Fullstack Web & Mobile Developer also a Data Scientist Intrested in Blockchain ✨✨
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Blockchain ( Substrate Framework )
