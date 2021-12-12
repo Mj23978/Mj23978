@@ -32,8 +32,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<!--
-<br />
+
+<!-- <br />
 
 ### :zap: Recent Activity
 
@@ -44,9 +44,8 @@
 4. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
 5. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
--->
+ -->
 
----
 <br />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mj23978&hide=c++,html&langs_count=3&layout=compact">
