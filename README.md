@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter
 - 🔭 I’m currently working on my financial app.
 - 📫 How to reach me: [On My Website](https://fluttensor.tk)
-- ⚡ Fun fact: Im half finished
+- ⚡ Fun fact: I love watching movies
 
 ### Languages and Tools:
 
